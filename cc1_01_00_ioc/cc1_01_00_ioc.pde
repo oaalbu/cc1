@@ -3,7 +3,7 @@ void setup() {
   frameRate(0.8);
   textSize(32);
 }
-
+//setframerarte
 
 void draw() {
   background(0);
